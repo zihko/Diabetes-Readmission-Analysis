@@ -28,9 +28,9 @@ Analysis of 87,000+ patient records from 130 US hospitals to identify factors as
 - **Dataset: **[Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes) (100k+ records, 1999-2008)
 
 ##  Project Structure
-├── diabetes-readmission-analysis.ipynb    # Main analysis notebook
-├── diabetic_data.csv                      # Dataset
-├──IDS_mapping.csv                         #Mapping of observations in different variables
+├── diabetes-readmission-analysis.ipynb (Main analysis notebook)
+├── diabetic_data.csv (Dataset)
+├──IDS_mapping.csv (Mapping of observations in different variables)
 └── README.md
 
 ## How to Run
