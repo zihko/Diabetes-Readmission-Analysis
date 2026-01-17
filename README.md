@@ -1,6 +1,6 @@
 # Diabetes-Readmission-Analysis
 An exploratory analysis on factors affecting 30-day hospital readmission  among patients with diabetes.
-## 📊 Project Overview
+## Project Overview
 Analysis of 87,000+ patient records from 130 US hospitals to identify factors associated with 30-day readmissions among diabetic patients.
 
 **Key Finding:** Disease severity and poor diabetes control are the primary drivers of readmission risk
@@ -11,7 +11,7 @@ Analysis of 87,000+ patient records from 130 US hospitals to identify factors as
 3. What role does admission type play in readmissions?
 4. Are medication changes during hospitalization associated with readmission rates?
 
-## 📈 Key Insights
+## Key Insights
 **Disease Severity Pattern:**
 -Patients on diabetes medication: 48% readmission rate with higher <30 rates vs 41% for those not on medication.  
 -Medication change during hospitalization: 48.7% vs 44.2% for stable regimens.  
