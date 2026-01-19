@@ -22,6 +22,23 @@ Analysis of 87,000+ patient records from 130 US hospitals to identify factors as
 - Targeted interventions for high-severity patients could significantly reduce readmission burden
 - Universal discharge protocols less effective than severity-stratified approaches
 
+ **Proposed Risk Stratification Framework:**
+
+HIGH RISK: Emergency admissions + medication changes + >16 medications
+- Intensive discharge planning
+- 72-hour post-discharge follow-up
+- Assigned care coordinator
+- Weekly follow-up for first month
+
+MODERATE RISK: Urgent admissions OR elderly OR moderate medication burden (10-16)
+- Enhanced education and pharmacy consult
+- 7-14 day follow-up
+- Phone check-ins at 3 and 7 days
+
+LOW RISK: Elective admissions + stable regimens + <10 medications
+- Standard discharge protocol
+- 2-3 week follow-up with primary care physician
+
 ## Tools & Technologies
 - **Python:** pandas, matplotlib
 - **Platform:** Jupyter Notebook
