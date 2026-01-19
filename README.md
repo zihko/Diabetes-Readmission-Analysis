@@ -1,4 +1,4 @@
-# Diabetes-Readmission-Analysis
+# Hospital Readmission Analysis
 An exploratory analysis on factors affecting 30-day hospital readmission  among patients with diabetes.
 ## Project Overview
 Analysis of 87,000+ patient records from 130 US hospitals to identify factors associated with 30-day readmissions among diabetic patients.
